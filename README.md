@@ -3,10 +3,10 @@
 Privacy Principle Source of Personal Information:
 – so to make sure that we are receiving the information from the correct source I would make it so that we send them an email asking them to confirm that they are indeed the person supplying information and that they are indeed the person that the information is about. 
 - If the information is not coming from the the person concerned we need to check that they are someone who has been authorised by the person about whom the information is concerned.
-
-
-
-
+###
+###
+###
+So Everything below is just
 my random thoughts etc. for assessment
 Thoughts/outlines for IT5013 Assessment 1
 PART 1 of Assessment

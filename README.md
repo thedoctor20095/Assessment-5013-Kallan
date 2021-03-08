@@ -14,40 +14,12 @@ Privacy Principle Storage and Security of Personal Information:
 
 Privacy Principle Correction of Personal Information:
 - to allow people to update/change their information depending on how sensitive the information is we would require different levels of security checks, so access to change public information just requires basic confirmation but if they want to update information that is more private we would require some kind of Photo ID. or email them a code to their confirmed email address 
+- When the information has been updated we would need to ask them "Is this information to the best of your knowledge accurate and correct" as we dont want to accidently have the information to be incorrect/inaccurate
 
+Privacy Principle Purpose of Collection of Personal Information:
+- so to ensure that we are recieving information that lies within the parameters of our business scope we will ensure that only the relevant information can be input into our information collection page.
+- we will also get the Privacy Officer that we employ to check over the information that we are requesting and seeing if it is within the scope of our business or not.
 
-
-
-
-So Everything below is just
-my random thoughts etc. for assessment
-Thoughts/outlines for IT5013 Assessment 1
-PART 1 of Assessment
-The 5 principles I shall choose + 2 actions per choice:
-1)	Source of Personal Information:
-- [ ]	What would I need to do to make sure that the information is from the correct source? 
-- [ ]	Photo id etc.???
-- [ ]	Or send them an email asking for them to confirm that it is them via a code or something <!-- in your own experience how to tech companies like facebook normally do this? Sometimes this can be an elegant solution, for example this in itself was a major reason that PayPal was sucessful. Have a look at how they validated a new users bank account.-->
-
-2)	Collection of information from subject
-- [ ]	What would I need to do to make sure that the person knows that we are holding the information and the information about us and why we are holding it etc.
-- [ ]	Have them tick a box to saying they understand/accept us having this information?
-- [ ]	Also have them tick a box saying what they want their information to be used for e.g. Dominos wanting cell phone no and email for newsletters and deals
-
-3)	Storage and Security of personal information:
-- [ ]	What am I going to do to make sure that the information is in a safe and secure location and prevent loss of information
-- [ ]	We are going to have 2 different storage locations for if one gets hacked etc. we have a backup from another server
-- [ ]	Have high level security/firewalls in place so that hopefully hackers cant get in and view all of the information we have stored
-
-4)	Correction of Personal Information
-- [ ]	What am I going to do to allow the person to update/change information
-- [ ]	We will offer them an option to update their information
-- [ ]	We will make doubly sure that they want to change this information and that this information is correct
-
-5)	Purpose of collection of Personal information
-- [ ]	What am I going to do to make sure that the information we receive is for business and not for any other reason
-- [ ]	We will get an outside source to help check us if we meet this
-- [ ]	We will double check to make sure that every bit of information that we receive from people is applicable to the services that we wish to offer and that there is no extra information that we do not need at all.
 
 
 Part 2 

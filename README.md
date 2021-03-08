@@ -1,7 +1,7 @@
 # Assessment-5013-Kallan
 
 Privacy Principle Source of Personal Information:
-– so to make sure that we are receiving the information from the correct source I would make it so that we send them an email asking them to confirm that they are indeed the person supplying information and that they are indeed the person that the information is about. 
+- so to make sure that we are receiving the information from the correct source I would make it so that we send them an email asking them to confirm that they are indeed the person supplying information and that they are indeed the person that the information is about. 
 - If the information is not coming from the the person concerned we need to check that they are someone who has been authorised by the person about whom the information is concerned.
 
 Privacy Principle Collection of Information from a subject:

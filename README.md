@@ -24,3 +24,7 @@ Privacy Principle Purpose of Collection of Personal Information:
 Part 2
 The Website I have chosen for creating a Privacy Policy is Facebook. The URL is Facebook.com. The main point of this website is mainly a communications platform between family, friends and coworkers. Though it is has somewhat recently become an advertising platform. The data that Facebook collects is everything that you upload to their site and also information that you don’t upload as they can see your IP, look through your Browser History and so much more.
 
+Please refer to the document "privacyPolicy_20200773.doc" for my Privacy Policy for Facebook
+
+
+

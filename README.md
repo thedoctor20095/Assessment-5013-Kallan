@@ -26,5 +26,5 @@ The Website I have chosen for creating a Privacy Policy is Facebook. The URL is 
 
 Please refer to the document "privacyPolicy_20200773.doc" for my Privacy Policy for Facebook
 
-
+With the Privacy Policy that i created for Facebook i have shown that we are following the Principle for Collection of Information from a subject and Principle for Source of Personal Information at the beginning by saying we are collecting this information from you. we have shown that we are following the Principle of Purpose of Collection of Personal Information by declaring what we intend on using this information for. With the Storage and Security of Personal Information we have declared that we are going to be collecting the data on Sercure servers and that limited people will be able to access it. The final Principle i have shown on my policy for Facebook i have shown we are following it by explaining that they can email me to change/update their information if they need to.
 
